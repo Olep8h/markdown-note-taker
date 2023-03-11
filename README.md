@@ -11,3 +11,8 @@ The Markdown Note Taker also includes a search function, allowing you to quickly
 Stack:
 
 Built on a robust technology stack, including React, React Bootstrap, and TypeScript, this app is designed to be fast, reliable, and easy to use. Whether you're a student, professional, or just someone who likes to take lots of notes, the Markdown Note Taker is the perfect tool to help you stay organized and productive.
+
+
+Here you can look at my website and use it for yourself!
+
+https://markdownnotetaker.netlify.app/
